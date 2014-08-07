@@ -3,7 +3,7 @@
 
 #[Download](https://github.com/CreativeTools/ct-pipe-dream/raw/master/ct-pipe-dream.ms)
 ![Screenshot](https://raw.githubusercontent.com/CreativeTools/ct-pipe-dream/master/screenshot.png)
-###[Video](https://vimeo.com/70096750)
+###[Video](https://vimeo.com/102803307)
 
 ##Usage
 Download the .ms file by right clicking on the *Download* link above and selecting "Save link as...".
