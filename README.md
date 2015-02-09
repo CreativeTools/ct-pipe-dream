@@ -5,6 +5,9 @@
 ![Screenshot](https://raw.githubusercontent.com/CreativeTools/ct-pipe-dream/master/screenshot.png)
 ###[Video](https://vimeo.com/102803307)
 
+##Update
+Neil Blevins has made some great modifications to the script, adding controls for geometry density, the volume of the pipe and more features. Please find the updated script at [neilblevins.com](http://www.neilblevins.com/cg_tools/soulburnscripts/soulburnscripts.htm).
+
 ##Usage
 Download the .ms file by right clicking on the *Download* link above and selecting "Save link as...".
 Open 3ds Max and click *MAXScript* -> *Run Script*.
